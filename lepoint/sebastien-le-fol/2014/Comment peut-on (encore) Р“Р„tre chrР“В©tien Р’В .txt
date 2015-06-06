@@ -1,0 +1,36 @@
+
+$(function(){$('.fancy-img').fancybox({helpers: {title:'inside'}, nextEffect : 'none', nextSpeed:200, prevEffect : 'none'});});.fancybox-opened{z-index:2147483647} #fancybox-overlay{z-index:2147483630} .fancybox-prev{left:-47px} .fancybox-next{right:-47px}$(function(){if(typeof($('#2877166').width())=='number'){$('#2877166').width($('2877166_img').width()); $('#2877166').css('padding-right', '0'); $('#2877166_img').css('margin', '0');if($('.col_article').length > 0 && $('#2877166, #2877166_img').position().top > ($('.col_article').position().top + $('.col_article').height()) && (666 >= (652 * (20 / 100)))) $('#2877166, #2877166_img').width((652 * (20 / 100)));else if(($('.col_article').length > 0) && (666 >= (430 * (20 / 100)))) $('#2877166, #2877166_img').width((430 * (20 / 100)));else if($('.col_article').length == 0 && (666 >= (430 * (20 / 100)))) $('#2877166, #2877166_img').width((652 * (20 / 100)));}});Ils se font massacrer à la sortie des églises au Nigeria, sont sommés de se convertir à l'islam ou condamnés à la fuite en Irak, interdits de culte en Arabie saoudite, réduits à pratiquer une religion des catacombes en Corée du Nord et dans nombre d'autres pays.
+La forme, l'intensité et les prétextes invoqués pour justifier ces persécutions peuvent varier considérablement d'un pays à l'autre, mais les faits sont là : pas un seul continent n'échappe à la "christianophobie", comme le démontre Le Livre noir de la condition des chrétiens dans le monde (XO). Une pandémie qui affecte entre 100 et...
+
+
+Article réservé aux abonnés
+
+
+
+
+Abonnez-vous
+
+
+
+à partir de
+
+
+1
+€
+(le 1er mois)
+
+
+
+
+Déjà abonné ?
+
+
+Connectez-vous
+Abonné papier ?
+
+
+Identifiez-vous
+
+
+
+

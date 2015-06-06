@@ -1,0 +1,162 @@
+
+Il n'est pas facile d'être une puissance impériale. Surtout quand on ne l'a pas véritablement souhaité. Naguère, George W. Bush était, en France, voué aux gémonies pour s'être lancé dans l'irresponsable croisade irakienne après le traumatisme du 11 Septembre, qui avait donné des ailes au lobby néo-conservateur. Aujourd'hui, c'est Barack Obama qui est dans le collimateur pour une prudence jugée excessive à l'égard des crises syrienne ou ukrainienne. Des critiques qui émanent, bien sûr, d'une partie du camp républicain, mais aussi de certains milieux dirigeants européens, notamment français.
+
+
+Article réservé aux abonnés
+
+
+
+
+Abonnez-vous
+
+
+
+à partir de
+
+
+1
+€
+(le 1er mois)
+
+
+
+
+Déjà abonné ?
+
+
+Connectez-vous
+Abonné papier ?
+
+
+Identifiez-vous
+
+
+
+
+
+//<![CDATA[
+var contenu_col_article_start = [];
+$('.col_article_brouil_start').append(contenu_col_article_start.contenu);
+var contenu_col_article_end = [];
+$('.col_article_brouil_end').append(contenu_col_article_end.contenu);
+var contenu_partage_article = {"contenu":"<!-- Code de la barre en haut -->\n<div id=\"share\" class=\"barreArticle\">\n    <!-- Barre d'outil -->\n    <div class=\"blocOutil floatL\">\n\n                    <div class=\"bouton mrgR10 floatL\" onclick=\"xt_click(this,'C','214','barre_du_haut::favori','A');\">\n                <a href=\"\/auth\/archivageArticle.php?id_sans_version=1908541&titre=Bush%20ou%20Obama%2C%20l%27Am%C3%A9rique%20a%20toujours%20tort...&chapeau=%3Cp%3EL%27ex-pr%C3%A9sident%20am%C3%A9ricain%20%C3%A9tait%20d%C3%A9nonc%C3%A9%20comme%20un%20va-t-en-guerre%2C%20mais%20on%20reproche%20%C3%A0%20son%20successeur%20son%20excessive%20prudence.%20Explications.%20%3C%2Fp%3E&date=2015-02-27 17:02:00&image=\/images\/2015\/02\/27\/par-3110194-jpg_2739826_113x76.JPG&auteur=Par    Pierre Beylau   \" id=\"archiverArticle\" class=\"hint hint--top hint--info colorbox-archive cboxElement\" onclick=\"return false;\" data-hint=\"Ajouter l'article \u00e0 mes archives\"><\/a>\n            <\/div>\n        \n                    <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:window.print();\" id=\"imprimerArticle\" class=\"hint hint--top hint--info\" data-hint=\"Imprimer\" onclick=\"return xt_click(this,'C','214','barre_du_haut::imprimer','A');\">\n                <\/a>\n            <\/div>\n                <div class=\"bouton mrgR10 floatL\" onclick=\"xt_click(this,'C','214','barre_du_haut::envoi_ami','A')\">\n            <a href=\"\/send-friend\/form.php?titre=Bush%20ou%20Obama%2C%20l%27Am%C3%A9rique%20a%20toujours%20tort...&surtitre=&texte=Il%20n%27est%20pas%20facile%20d%27%C3%AAtre%20une%20puissance%20imp%C3%A9riale.%20Surto...&url=%2Fmonde%2Fou-va-le-monde-pierre-beylau%2Fbush-ou-obama-l-amerique-a-toujours-tort-27-02-2015-1908541_231.php\" class=\"hint hint--top hint--info\" id=\"mailArticle\" data-hint=\"Envoyer \u00e0 un ami\" onclick=\"return false;\"><\/a>\n        <\/div>\n                                                <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:void(0)\" id=\"agrandir\" class=\"hint hint--top hint--info grossir_texte\" data-hint=\"Agrandir le texte\" onclick=\"return xt_click(this,'C','214','barre_du_haut::agrandir_texte','A');\"><\/a>\n            <\/div>\n            <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:void(0)\" id=\"reduire\" class=\"hint hint--top hint--info reduire_texte reduire_off\" data-hint=\"R\u00e9duire le texte\" onclick=\"return xt_click(this,'C','214','barre_du_haut::diminuer_texte','A');\"><\/a>\n            <\/div>\n                \n    <\/div>\n    <!-- Fin barre d'outil -->\n\n    <!-- Bouton Freemium -->\n    <div id=\"abo_share\"><a id=\"share1Euro\"href=\"http:\/\/abo.lepoint.fr\/\" onclick=\"return xt_adc(this, 'INT-194-[Button]')\" target=\"_blank\"><img src=\"http:\/\/logi8.xiti.com\/get.ad?xts=188560&ati=INT-194-[Button]&type=AT&rn=1&url=http:\/\/www.lepoint.fr\/images\/myad.gif\"><\/a><\/div>    <!-- Fin Bouton Freemium -->\n\n    <!-- Barre bouton sociaux -->\n    <div class=\"blocSociaux floatR\">\n\n        <!-- Facebook -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"fb_b\" onclick=\"window.open('http:\/\/www.facebook.com\/sharer.php?u=http:\/\/w.lpnt.fr\/1908541f', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Facebook','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 facebookBulle\"><\/div>\n            <div class=\"floatL bulle borderFacebook facebooklike\"><\/div>\n        <\/div>\n        <!-- Facebook -->\n\n        <!-- Twitter -->                                                                                                                    \n\n        <div class=\"mrgR10 floatL\">\n\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"tw_b\" onclick=\"window.open('https:\/\/twitter.com\/intent\/tweet?original_referer=http:\/\/www.lepoint.fr&source=tweetbutton&text=Bush%20ou%20Obama%2C%20l%27Am%C3%A9rique%20a%20toujours%20tort...&url=http:\/\/w.lpnt.fr\/1908541t&hashtags=Beylau&via=LePoint&related=LePoint', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Twitter','A')\" rel=\"nofollow\"><\/a><\/div>\n\n\n\n            <div class=\"floatL mrgL2 twitterBulle\"><\/div>\n            <div class=\"floatL bulle borderTwitter twitterlike\"><\/div>\n        <\/div>\n        <!-- Twitter -->\n\n        <!-- Google + -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"gp_b\" onclick=\"window.open('https:\/\/plus.google.com\/share?url=http:\/\/www.lepoint.fr\/monde\/ou-va-le-monde-pierre-beylau\/bush-ou-obama-l-amerique-a-toujours-tort-27-02-2015-1908541_231.php', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Googleplus','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 googleBulle\"><\/div>\n            <div class=\"floatL bulle borderGoogle googlelike\"><\/div>\n        <\/div>\n        <!-- Google + -->\n\n        <!-- Linkedin -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"li_b\" onclick=\"window.open('http:\/\/www.linkedin.com\/shareArticle?mini=true&url=http:\/\/www.lepoint.fr\/monde\/ou-va-le-monde-pierre-beylau\/bush-ou-obama-l-amerique-a-toujours-tort-27-02-2015-1908541_231.php&title=Bush%20ou%20Obama%2C%20l%27Am%C3%A9rique%20a%20toujours%20tort...', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Linkedin','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 linkedinBulle\"><\/div>\n            <div class=\"floatL bulle borderLinkedin linkedinlike\"><\/div>\n        <\/div>\n        <!-- Linkedin -->\n\n        <!-- Viadeo -->\n        <div class=\"floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"vd_b\" onclick=\"window.open('http:\/\/www.viadeo.com\/shareit\/share\/?url=http:\/\/www.lepoint.fr\/monde\/ou-va-le-monde-pierre-beylau\/bush-ou-obama-l-amerique-a-toujours-tort-27-02-2015-1908541_231.php&title=Bush%20ou%20Obama%2C%20l%27Am%C3%A9rique%20a%20toujours%20tort...', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Viadeo','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 viadeoBulle\"><\/div>\n            <div class=\"floatL bulle borderViadeo viadeolike\"><\/div>\n        <\/div>\n        <!-- Viadeo -->\n\n    <\/div>\n    <!-- Fin barre bouton sociaux -->\n\n<\/div>\n<!-- Fin de la barre en haut -->\n\n<script>\n$(document).ready(function() {\n    $.ajax({\n        url: \"\/html\/share\/rs\/rs.php\",\n        type: 'POST',\n        data: \"url=\/monde\/ou-va-le-monde-pierre-beylau\/bush-ou-obama-l-amerique-a-toujours-tort-27-02-2015-1908541_231.php&type=rshare\",\n        success: function(data){\n            if(data){\n                var rshare = JSON.parse(data);\n                var facebook = rshare.facebook;\n                var twitter = rshare.twitter;\n                var linkedin = rshare.linkedin;\n                var googleplus = rshare.googleplus;\n                var viadeo = rshare.viadeo;\n\n                if(facebook>0){\n                    $(\".facebooklike\").show();\n                    $(\".facebookBulle\").show();\n                    $(\".facebooklike\").html(facebook);\n                }\n\n                if(twitter>0){\n                    $(\".twitterlike\").show();\n                    $(\".twitterBulle\").show();\n                    $(\".twitterlike\").html(twitter);\n                }\n\n                if((linkedin-1)>0){\n                    $(\".linkedinlike\").show();\n                    $(\".linkedinBulle\").show();\n                    $(\".linkedinlike\").html(linkedin-1);\n                }\n\n                if(googleplus>0){\n                    $(\".googlelike\").show();\n                    $(\".googleBulle\").show();\n                    $(\".googlelike\").html(googleplus);\n                }\n\n                if(viadeo>0){\n                    $(\".viadeolike\").show();\n                    $(\".viadeoBulle\").show();\n                    $(\".viadeolike\").html(viadeo);\n                }\n            }\n        }\n    });\n});\n<\/script>\n"};
+$("#entete2_article").after(contenu_partage_article.contenu);
+//]]>
+
+
+
+
+
+
+
+var viadeoWidgetsJsUrl = document.location.protocol+"//widgets.viadeo.com";
+(function(){
+var e = document.createElement('script');
+e.type='text/javascript';
+e.async = true;
+e.src = viadeoWidgetsJsUrl+'/js/viadeowidgets.js';
+var s = document.getElementsByTagName('head')[0];
+s.appendChild(e);
+})();
+
+
+//<![CDATA[
+var contenu_util_article = {"contenu":"\n<!-- Code de la barre en bas -->\n\n<div id=\"share\" class=\"mrgT20 barreArticle\">\n  <!-- Bouton Freemium -->\n        <!-- Fin Bouton Freemium -->\n  <div class=\"bouton mrgR5 floatL\"> <a id=\"imprimerArticle2\" href=\"javascript:window.print();\" class=\"hint hint--top hint--info\" data-hint=\"Imprimer\" onclick=\"return xt_click(this,'C','214','barre_du_bas::imprimer','A');\"><\/a><\/div>\n  <div class=\"bouton mrgR5 floatL\" onclick=\"xt_click(this,'C','214','barre_du_bas::envoi_ami','A')\"> <a id=\"mailArticle2\" href=\"\/send-friend\/form.php?titre=Bush%20ou%20Obama%2C%20l%27Am%C3%A9rique%20a%20toujours%20tort...&surtitre=&texte=Il%20n%27est%20pas%20facile%20d%27%C3%AAtre%20une%20puissance%20imp%C3%A9riale.%20Surto...&url=%2Fmonde%2Fou-va-le-monde-pierre-beylau%2Fbush-ou-obama-l-amerique-a-toujours-tort-27-02-2015-1908541_231.php\" class=\"hint hint--top hint--info\" data-hint=\"Envoyer \u00e0 un ami\" onclick=\"return false;\"><\/a> <\/div>\n          \n  <!-- Google + -->\n     <div class=\"mrgR5 floatL\">\n    <div class=\"floatL\"><a id=\"gp_b2\" href=\"javascript:void(0)\" onclick=\"window.open('https:\/\/plus.google.com\/share?url=http:\/\/www.lepoint.fr\/monde\/ou-va-le-monde-pierre-beylau\/bush-ou-obama-l-amerique-a-toujours-tort-27-02-2015-1908541_231.php', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_bas::Partage_Googleplus','A');\" rel=\"nofollow\"><\/a><\/div>\n    <div class=\"floatL mrgL2 googleBulle\"><\/div>\n    <div class=\"floatL bulle borderGoogle googlelike\"><\/div>\n  <\/div>\n    <!-- Google + --> \n  \n  <!-- Twitter -->\n  <div class=\"mrgR5 floatL\">\n    <div class=\"floatL\"><a id=\"tw_b2\" href=\"javascript:void(0)\" onclick=\"window.open('https:\/\/twitter.com\/intent\/tweet?original_referer=http:\/\/www.lepoint.fr&source=tweetbutton&text=Bush%20ou%20Obama%2C%20l%27Am%C3%A9rique%20a%20toujours%20tort...&url=http:\/\/w.lpnt.fr\/1908541t&hashtags=Beylau&via=LePoint&related=LePoint', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Twitter','A')\" rel=\"nofollow\"><\/a><\/div>\n    <div class=\"floatL mrgL2 twitterBulle\"><\/div>\n    <div class=\"floatL bulle borderTwitter twitterlike\"><\/div>\n  <\/div>\n  <!-- Twitter --> \n  \n  <!-- Facebook -->\n  <div class=\"mrgR20 floatL\">\n    <div class=\"floatL\"><a href=\"javascript:void(0)\" onclick=\"window.open('http:\/\/www.facebook.com\/sharer.php?u=http:\/\/w.lpnt.fr\/1908541f', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_bas::Partage_Facebook','A');\" rel=\"nofollow\"><\/a><\/div>\n    <div class=\"floatL mrgL2 facebookBulle\"><\/div>\n    <div class=\"floatL bulle borderFacebook facebooklike\"><\/div>\n  <\/div>\n  <!-- Facebook --> \n  \n  <script>\n\t    $('#bloc_newsletter').submit(function(){return submitnl();});\n\t<\/script> \n  <!-- Newsletter -->\n    <form id=\"bloc_newsletter_article\" action=\"#\" method=\"get\" name=\"bloc_newsletter\" onsubmit=\"return submitnlarticle();\">\n    <input type=\"hidden\" value=\"nla\" name=\"origine\">\n    <input type=\"hidden\" value=\"nl13h,nl8h,offrespoint\" name=\"nl\">\n    <div class=\"floatR\">\n      <div class=\"newsletter floatL\">newsletter<\/div>\n      <div class=\"floatL\">\n        <input id=\"nlmailarticle\" type=\"text\" placeholder=\"Votre e-mail\" name=\"mail\" \/>\n      <\/div>\n      <div class=\"floatL\">\n        <input class=\"submit\" type=\"submit\" name=\"go\" value=\"ok\" onclick=\"return xt_click(this,'F','214','barre_du_bas::Abonnement_Newsletter');\">\n      <\/div>\n    <\/div>\n  <\/form>\n  <script type=\"text\/javascript\">\n\t\t\tfunction submitnlarticle()\n\t\t\t{\n\n\t\t\t\tvar url = 'http:\/\/boc.lepoint.fr';\n\t\t\t\tvar url2 = 'http:\/\/www.lepoint.fr';\n\t\t\t\tjQuery.post(url2+'\/html\/lepoint\/clientnl.php?'+jQuery('#bloc_newsletter_article').serialize()+'&url='+url,\n\t\t\t\tfunction(data) {\n\t\t\t\t\tif(data[\"resultat\"] == \"ok\" && data[\"raison\"] == \"precompte\" ){\n\t\t\t\t\t\tdocument.location.href=url+\"\/inscription\/index\/o\/nla\/mail\/\"+$(\"#nlmailarticle\").val();\n\t\t\t\t\t} else {\n\t\t\t\t\t\tjQuery('#messagenl').html(data['message']);\n\t\t\t\t\t\tjQuery('#amessagenl').colorbox({open:true,inline:true, href:\"#messagenl\"});\n\t\t\t\t\t}\n\t\t\t\t}, 'json');\n\t\t\t\treturn false;\n\t\t\t\t\/\/});\n\t\t\t}\n\t\t<\/script> \n  <!-- Fin newsletter -->\n  \n  <\/div>\n<!-- Fin de la barre en bas --><hr \/>\n"};
+$('.util_article.bottom').append(contenu_util_article.contenu);
+//]]>
+
+
+
+
+
+
+
+
+Où va le monde
+RSS Où va le monde                
+
+
+La droite patauge dans la semoule !
+
+
+Ukraine : le chiffon rouge de l'Otan
+
+
+Moyen-Orient : arrêtons l'angélisme moralisateur !
+
+
+Il est interdit de blasphémer "Charlie"...
+
+
+
+Tous les articles - Où va le monde
+
+
+
+
+
+
+
+.lig_wrapper_global_35198 {
+border-bottom: 0;
+border-top: 0;
+}
+
+
+
+
+function loadCommentaryPage(page, noScroll){
+jQuery('#jxcommtary').html('<div class="comments_loader"><img src="/images/commun3/loading.gif" /></div>');
+jQuery.get('/_commentaires/commentaire_getter.php', {id_sans_version:"1908541", path:"lp:w:opinions:editos:pierrebeylau", page_cmtary:page}).done(function(data){
+jQuery('#jxcommtary').html(data);
+if(!noScroll){
+$('html, body').animate({
+scrollTop: $("#liste_commentaires").offset().top
+}, 500);
+}
+jQuery('#pagination-item,#precedent,#suivant').each(function(){
+jQuery(this).attr('onclick', 'xt_med(\'F\',200,\'Monde::1908541_pierre_beylau::bush_ou_obama_l_amerique_a_toujours_tort_commentaires_ajax\');' + jQuery(this).attr('onclick'));
+});
+});
+}
+jQuery(document).ready(function() {
+// récupération des commentaires en ajax
+loadCommentaryPage(1, true);
+jQuery('#ajouteruncommentairehaut').click(function(){jQuery('#reservehaut').slideDown();jQuery('#reservebas').slideUp();})
+jQuery('#ajouteruncommentairebas').click(function(){jQuery('#reservebas').slideDown();jQuery('#reservehaut').slideUp();})
+});
+
+
+
+
+3 Commentaires
+
+Ajouter un commentaire
+
+
+
+Ce service est réservé aux abonnés
+
+Déjà abonné ? Identifiez-vous
+Abonnez-vous à partir de 1€
+
+
+
+
+Tous les commentaires
+
+ Ajouter un commentaire 
+
+Ce service est réservé aux abonnés
+
+Déjà abonné ? Identifiez-vous
+Abonnez-vous à partir de 1€
+
+
+
+
+
+
+
+
+
