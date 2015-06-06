@@ -1,8 +1,8 @@
 # Frapalyzer
 
-The project provides an algorithm of apocope search in French text. Everything is written in Python except for the simplest (single-page) crawlers.
+The project provides an algorithm of apocope detection in French text. Everything is written in Python except for the simplest (single-page) crawlers.
 
-**Note:** To get the code up and running without headaches, you can use the [Anaconda](https://store.continuum.io/cshop/anaconda/) distribution of Python. It includes all necessary libraries, as well as a good IDE and the shell.
+**Note:** To get the code up and running without headache, you can use the [Anaconda](https://store.continuum.io/cshop/anaconda/) distribution of Python. It includes all necessary libraries, as well as a good IDE and a shell.
 
 ## Project content
 
